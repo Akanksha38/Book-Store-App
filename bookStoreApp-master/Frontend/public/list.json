@@ -1,0 +1,84 @@
+[
+    {
+        "id":1,
+        "name": "Storyverse",
+        "title": "Once upon a time… your next adventure starts here",
+        "price":"$0",
+        "category":"free",
+        "image":"https://img.freepik.com/free-photo/cozy-home-composition-with-stack-books-blurred-background_169016-25657.jpg"
+    },
+    
+    {
+        "id":7,
+        "name": "DreamFuel",
+        "title": "Warning: May cause sudden bursts of motivation!",
+        "price":"$0",
+        "category":"free",
+        "image":"https://img.freepik.com/free-photo/cozy-home-composition-with-stack-books-blurred-background_169016-25657.jpg"
+    },
+
+    {
+        "id":2,
+        "name": "LaughLines",
+        "title": "Warning: Side effects may include uncontrollable laughter",
+        "price":"$0",
+        "category":"free",
+        "image":"https://img.freepik.com/free-photo/cozy-home-composition-with-stack-books-blurred-background_169016-25657.jpg"
+    },
+
+    {
+        "id":3,
+        "name": "Fearscape",
+        "title": "Read if you dare… the goosebumps are also free",
+        "price":"$0",
+        "category":"free",
+        "image":"https://img.freepik.com/free-photo/cozy-home-composition-with-stack-books-blurred-background_169016-25657.jpg"
+    },
+
+    {
+        "id":4,
+        "name": "love Tales",
+        "title": "Fall in love, one page at a time",
+        "price":"$50",
+        "category":"paid",
+        "image":"https://img.freepik.com/free-photo/cozy-home-composition-with-stack-books-blurred-background_169016-25657.jpg"
+    },
+
+    {
+        "id":5,
+        "name": "Romcom",
+        "title": "Romance + Comedy = Double the fun, double the feels!",
+        "price":"$0",
+        "category":"free",
+        "image":"https://img.freepik.com/free-photo/cozy-home-composition-with-stack-books-blurred-background_169016-25657.jpg"
+    },
+
+    {
+        "id":6,
+        "name": "Fantasy",
+        "title": "Step inside… where witches , elves, and chaos await!",
+        "price":"$100",
+        "category":"paid",
+        "image":"https://img.freepik.com/free-photo/cozy-home-composition-with-stack-books-blurred-background_169016-25657.jpg"
+    },
+
+
+    {
+        "id":8,
+        "name": "TimeTales",
+        "title": "Travel through time… no passport required!",
+        "price":"$75",
+        "category":"paid",
+        "image":"https://img.freepik.com/free-photo/cozy-home-composition-with-stack-books-blurred-background_169016-25657.jpg"
+    },
+
+    {
+        "id":9,
+        "name": "Mystery",
+        "title": "Shhh… secrets inside, handle with curiosity!",
+        "price":"$0",
+        "category":"free",
+        "image":"https://img.freepik.com/free-photo/cozy-home-composition-with-stack-books-blurred-background_169016-25657.jpg"
+    }
+
+]
