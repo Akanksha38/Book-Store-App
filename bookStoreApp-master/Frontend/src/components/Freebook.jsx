@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from "react";
-import List from "../../public/list.json"; 
 
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css"; 
@@ -69,7 +68,7 @@ function Freebook() {
         </div>
         <div>
           <Slider {...settings}>
-            {filterData.map((item) => (
+            {book.map((item) => (
               <Cards item={item} key={item.id} />
             ))}
           </Slider>
